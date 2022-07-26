@@ -29,7 +29,7 @@ export default function Landin2(){
             </Flex>
            </Stack>
            <Stack align={'center'} justify='center' w='full' py={4} >
-            <Image alt={'Brand'} fit={'cover'} align={'center'} w={'lg'} src={'./Brand.png'} />
+            <Image alt={'Brand'} fit={'cover'} align={'center'} w={'lg'} src={'./brand.png'} />
             </Stack>
  
 
