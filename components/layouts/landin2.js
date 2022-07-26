@@ -77,7 +77,7 @@ export default function Landin2() {
             fit={"cover"}
             align={"center"}
             w={"lg"}
-            src={"./Brand.png"}
+            src={"./brand.png"}
           />
         </Stack>
 
